@@ -20,7 +20,6 @@ public class BestTimetoBuyandSellStock {
                         xDiff=prices[i]-xMin;
                     }
                 }
-
             }
             return xDiff;
         }
