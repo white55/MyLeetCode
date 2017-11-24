@@ -17,4 +17,14 @@ public class TwoSum {
         }
         return ret;
     }
+
+    public static void main(String[] args) {
+        TwoSum t=new TwoSum();
+        int[] i=new int[4];
+        i[0]=1;
+        i[1]=2;
+        i[2]=3;
+        i[3]=5;
+        System.out.println(t.twoSum(i,9));
+    }
 }
