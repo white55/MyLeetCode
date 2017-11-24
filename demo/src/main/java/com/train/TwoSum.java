@@ -1,4 +1,4 @@
-package java;
+package com.train;
 
 /**
  * Created by 张超 on 2017/11/23.
