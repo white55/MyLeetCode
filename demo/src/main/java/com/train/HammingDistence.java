@@ -11,6 +11,11 @@ public class HammingDistence {
         int y=3;
         hm.hd1(x,y);
         hm.hm2(x,y);
+        int s = Integer.parseInt("");
+        if(String.valueOf(s)==null){
+            System.out.println("null");
+        }
+        System.out.println(s);
     }
     //自己写的笨方法
     void hd1(int x,int y){
