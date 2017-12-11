@@ -35,6 +35,7 @@ public class RemoveElement {
         ss[2]=2;
         ss[3]=2;
         ss[4]=1;
-        removeElement.removeElement(ss,1);
+        removeElement.removeElement(ss,1); 
+        removeElement.removeElement2(ss,1);
     }
 }
